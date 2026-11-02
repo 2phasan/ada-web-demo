@@ -23,13 +23,15 @@ Ada Web için responsive, yüksek kaliteli, uzun kaydırmalı bir ajans/portföy
 3. Hareketli hizmet ticker’ı.
 4. Hizmetler: Web tasarım, özel yazılım, mobil uygulama.
 5. Seçili işler: filtrelenebilir proje kartları. Demo projeler: Kafe, Rent A Car, finans mobil uygulama, restoran/kahve markası, dershane/eğitim, yaratıcı stüdyo. Bunların demo/fiktif çalışma olduğu gerektiğinde açıkça belirtilsin; gerçek müşteri referansı gibi sunulmasın.
-6. Ekip: Hasan Hüseyin Eren, Halil Bey, Cennet Hanım, Aleyna Hanım, Mahmut Bey, Alperen Bey ve Büşra Hanım’ın görev alanlarını abartmadan ve kullanıcı tarafından sağlanan bilgilerle anlat.
-7. Manifesto: “Dijitalde büyümek, doğru yerden başlar.”
-8. İletişim: adaweb@gmail.com, 0545 449 29 74. Ofis: Work C I Paylaşımlı Ofis, Safa Plaza, Yenigün, Kızılırmak Cd. D:30, Kat 3, 07310 Muratpaşa / Antalya.
+6. Süreç: keşif, iskelet, tasarım + geliştirme, yayın + iyileştirme adımlarını ayrı bir bölümde anlat.
+7. Çalışma alanları: kafe/restoran, eğitim, rent a car, kurumsal, e-ticaret, mobil ürün, özel yazılım ve marka kimliği.
+8. Ekip: Hasan Hüseyin Eren, Halil Bey, Cennet Hanım, Aleyna Hanım, Mahmut Bey, Alperen Bey ve Büşra Hanım’ın görev alanlarını eşit ağırlıklı, ekip merkezli kartlarla anlat. Tek bir kişiyi şirketin yüzü gibi öne çıkarma.
+9. Manifesto: “Dijitalde büyümek, doğru yerden başlar.”
+10. İletişim: adaweb@gmail.com, 0545 449 29 74. Ofis: Work C I Paylaşımlı Ofis, Safa Plaza, Yenigün, Kızılırmak Cd. D:30, Kat 3, 07310 Muratpaşa / Antalya.
 
 ## İş akışı
 
-1. Önce rakip araştırması yap: Türkiye’deki web tasarım/yazılım ajanslarından en az 5 örnek incele; ortak kalıpları, fırsatları ve Ada Web’in ayrışacağı noktaları kısa bir tabloyla özetle. Kaynakları linkle.
+1. Önce rakip araştırması yap: WDT, SYRON, İnterdijital, Protan, Maviweb ve Webrek gibi Türkiye’deki web tasarım/yazılım ajanslarını incele; hizmet, portföy, süreç, güven unsurları ve içerik derinliği açısından karşılaştır. Ortak kalıpları, fırsatları ve Ada Web’in ayrışacağı noktaları tabloyla özetle. Kaynakları linkle.
 2. Sonra site mimarisini ve içerik taslağını çıkar.
 3. Görsel yönü ve örnek görselleri onaya sun. Görsel üretirken telifsiz/özgün, marka içermeyen, okunabilir metin içermeyen görseller kullan.
 4. Kullanıcı onayı sonrası siteyi önce locale aç; responsive, erişilebilir ve etkileşimleri test et.

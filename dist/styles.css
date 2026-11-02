@@ -19,3 +19,7 @@
 .service-detail b{position:static;margin-top:auto;padding-top:22px}
 .service-icon{display:none}
 @media(max-width:800px){.service-card,.service-detail{min-height:235px}}
+
+/* Proje kartları: boşluk bırakmadan düzenli iki sütunlu akış */
+.project-card.large{grid-row:auto}
+.project-card:nth-child(3){margin-top:0}

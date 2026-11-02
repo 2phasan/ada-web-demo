@@ -5,3 +5,17 @@
 .hero-art{height:600px}.hero-art .art-glow{display:none}.hero-collage{height:100%;position:relative}.hero-preview{position:absolute;margin:0;background:#0b1a2e;border:1px solid #ffffff22;padding:10px;box-shadow:18px 24px 50px #0005}.hero-preview img{display:block!important;width:100%!important;height:auto!important;object-fit:cover!important;opacity:.94!important;mask-image:none!important;border-radius:0!important}.preview-main{width:72%;right:4%;top:8%;transform:rotate(1.5deg)}.preview-side{width:46%;left:1%;bottom:8%;transform:rotate(-4deg);z-index:2}.hero-preview figcaption{display:flex;align-items:baseline;justify-content:space-between;gap:16px;padding:13px 4px 3px;color:var(--cream);font-size:12px}.hero-preview figcaption span{color:var(--muted);font-size:10px}.hero-sticker{position:absolute;right:0;bottom:3%;z-index:3;padding:14px 17px;background:var(--gold);color:#07111f;font:700 12px/1.15 var(--display);transform:rotate(3deg);box-shadow:8px 12px 24px #0004}.hero-sticker em{font-style:normal;font-weight:500;font-family:var(--sans)}@media(max-width:800px){.hero-art{height:430px;margin-top:25px}.preview-main{width:78%;right:1%;top:2%}.preview-side{width:52%;left:0;bottom:3%}.hero-sticker{right:3%;bottom:0}}
 .service-detail{position:relative}.service-detail .card-index{position:absolute;right:26px;top:26px;color:#6f8198;font-size:12px;letter-spacing:0}.service-detail h3{margin-top:48px}
 .service-card,.service-detail{min-height:330px}.service-card.featured{background:#0c1c31;border-color:var(--line)}.service-detail{padding:30px;background:#0c1c31;border-color:var(--line);display:flex;flex-direction:column}.service-detail h3{font-size:28px;margin:76px 0 15px}.service-detail p{max-width:280px}.service-detail b{position:absolute;left:30px;bottom:28px}.service-detail-grid{gap:14px;margin-top:14px}
+
+/* Hizmet kartları: sade, kompakt ve ortak hizalı görünüm */
+.service-grid,.service-detail-grid{align-items:stretch}
+.service-card,.service-detail{min-height:260px}
+.service-card:nth-child(2),.service-card:nth-child(2):hover{transform:none}
+.service-card{padding:26px;display:flex;flex-direction:column}
+.service-card h3{margin:54px 0 12px;font-size:25px}
+.service-card p{margin:0;max-width:290px}
+.service-card a{position:static;margin-top:auto;padding-top:22px}
+.service-detail{padding:26px}
+.service-detail h3{margin:54px 0 12px;font-size:25px}
+.service-detail b{position:static;margin-top:auto;padding-top:22px}
+.service-icon{display:none}
+@media(max-width:800px){.service-card,.service-detail{min-height:235px}}
